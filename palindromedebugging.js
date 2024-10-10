@@ -37,4 +37,4 @@ assertPalindrome('a santa at NASA', true);
 
 //summary: turn to lower case. loop through function newSpaces instead of original string
 //originally missing return statement after the loop to return true if string is palindrome
-//testing adding on git
+//testing adding on git another time
